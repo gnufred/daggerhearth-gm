@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fred — Combat"
+  short_description: "Run Daggerheart combat with Fred"
+  default_prompt: "Use $combat to resolve our current encounter with Fred."

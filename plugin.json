@@ -1,0 +1,40 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "fred",
+  "version": "0.1.0",
+  "description": "Fred, your AI game master for Daggerheart-compatible adventures, with the complete SRD 2.0 including Hope & Fear.",
+  "author": {
+    "name": "Fred / The Monk & The Witch",
+    "url": "https://monkandwitch.com/"
+  },
+  "homepage": "https://monkandwitch.com/",
+  "repository": "https://github.com/monk-witch/fred",
+  "license": "MIT AND LicenseRef-DPCGL-2.0",
+  "keywords": [
+    "roleplaying",
+    "game-master",
+    "daggerheart-compatible",
+    "srd"
+  ],
+  "extensions": {
+    "com.openai": {
+      "onboardingSkill": "./skills/fred/SKILL.md",
+      "interface": {
+        "displayName": "Fred",
+        "shortDescription": "Your game master for Daggerheart-compatible adventures",
+        "longDescription": "Play with Fred. Create and advance characters, run combat, and consult the packaged SRD 2.0 including Hope & Fear. Campaign continuity lives in your conversation. By the author of The Monk & The Witch.",
+        "developerName": "The Monk & The Witch",
+        "category": "Productivity",
+        "websiteURL": "https://monkandwitch.com/",
+        "defaultPrompt": [
+          "Start a Daggerheart-compatible adventure with Fred.",
+          "Create a level-one character with Fred.",
+          "Continue our adventure from this checkpoint."
+        ],
+        "composerIcon": "./assets/fred.svg",
+        "logo": "./assets/fred.svg",
+        "brandColor": "#183D3A"
+      }
+    }
+  }
+}

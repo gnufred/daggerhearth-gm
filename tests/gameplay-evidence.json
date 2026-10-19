@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-19",
+  "client": "codex-cli 0.156.0",
+  "plugin": "fred@monk-witch",
+  "version": "0.1.0",
+  "dice": "supplied scripted test values",
+  "turns": [
+    {
+      "case": "adventure",
+      "turn": 1,
+      "event_log_sha256": "c73092b5d4a7b6572b50327a5cb853a9ffb8a1a41a725b13c2cd001ae5c086fc",
+      "completed": true,
+      "installed_skill_reads": [
+        "characters",
+        "fred"
+      ],
+      "installed_reference_reads": true
+    },
+    {
+      "case": "adventure",
+      "turn": 2,
+      "event_log_sha256": "d017f6932a4488ba749c6bca67aeba13c177eccf07850c78d6979873060090e1",
+      "completed": true,
+      "installed_skill_reads": [
+        "combat"
+      ],
+      "installed_reference_reads": true
+    },
+    {
+      "case": "adventure",
+      "turn": 3,
+      "event_log_sha256": "01763ed1ae97dcdeb30d11f00a6d70aa41c46a49d82390d9e23477da83dadcf8",
+      "completed": true,
+      "installed_skill_reads": [],
+      "installed_reference_reads": false
+    },
+    {
+      "case": "adventure",
+      "turn": 4,
+      "event_log_sha256": "63fe42b2b05f173a0b4eb926b845c53a52f747dfcd6bde16177272a4fd259300",
+      "completed": true,
+      "installed_skill_reads": [
+        "characters"
+      ],
+      "installed_reference_reads": true
+    },
+    {
+      "case": "combat-fixture",
+      "turn": 1,
+      "event_log_sha256": "382672ef5805b37906f70d90229a451796ea8378a84f9f07cfc56e187f567d1f",
+      "completed": true,
+      "installed_skill_reads": [
+        "combat"
+      ],
+      "installed_reference_reads": true
+    },
+    {
+      "case": "combat-fixture",
+      "turn": 2,
+      "event_log_sha256": "74d02ae4fdb3d73ba4b3ddb15ff169d512396ce509df2231b529b2b771e9409c",
+      "completed": true,
+      "installed_skill_reads": [
+        "combat"
+      ],
+      "installed_reference_reads": true
+    },
+    {
+      "case": "checkpoint-continuation",
+      "turn": 1,
+      "event_log_sha256": "696673209c53ff759818edb9782d1eada285d77ba027f45c799c185ac4d7e305",
+      "completed": true,
+      "installed_skill_reads": [
+        "fred"
+      ],
+      "installed_reference_reads": true
+    }
+  ]
+}

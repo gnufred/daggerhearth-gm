@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fred — Characters"
+  short_description: "Create and advance Daggerheart characters"
+  default_prompt: "Use $characters to create a level-one character with Fred."
