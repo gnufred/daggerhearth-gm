@@ -1,4 +1,4 @@
-# Fred
+# Fred (Daggerheart GM)
 
 **Your AI game master for Daggerheart-compatible adventures.** Create a hero,
 explore an original adventure, and play through consequential choices with Fred.

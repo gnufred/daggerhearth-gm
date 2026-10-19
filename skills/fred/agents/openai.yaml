@@ -1,4 +1,4 @@
 interface:
-  display_name: "Fred"
+  display_name: "Fred (Daggerheart GM)"
   short_description: "Play a Daggerheart-compatible adventure with Fred"
   default_prompt: "Use $fred to start a Daggerheart-compatible adventure."

@@ -20,7 +20,7 @@
     "com.openai": {
       "onboardingSkill": "./skills/fred/SKILL.md",
       "interface": {
-        "displayName": "Fred",
+        "displayName": "Fred (Daggerheart GM)",
         "shortDescription": "Your game master for Daggerheart-compatible adventures",
         "longDescription": "Play with Fred. Create and advance characters, run combat, and consult the packaged SRD 2.0 including Hope & Fear. Campaign continuity lives in your conversation. By the author of The Monk & The Witch.",
         "developerName": "The Monk & The Witch",
