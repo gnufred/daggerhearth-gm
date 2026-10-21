@@ -1,7 +1,7 @@
 {
-  "name": "monk-witch",
+  "name": "gnufred",
   "interface": {
-    "displayName": "The Monk & The Witch"
+    "displayName": "Fred (gnufred)"
   },
   "plugins": [
     {

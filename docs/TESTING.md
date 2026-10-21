@@ -6,6 +6,10 @@ turns with packaged-file reads, not hand-written sample answers. The tester
 supplied scripted player choices and dice values; no random-roll capability was
 claimed or tested.
 
+The repository moved to `gnufred/daggerhearth-gm` and the marketplace was renamed
+`gnufred` on 21 October 2026. The installation names below record the original
+19 October tests; current installation instructions are in the README.
+
 ## Installation and package checks
 
 Registered the repository marketplace with `codex plugin marketplace add`, then

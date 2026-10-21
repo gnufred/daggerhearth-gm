@@ -36,16 +36,16 @@ Requires a Codex client with plugin support and an existing signed-in account.
 From Codex CLI:
 
 ```sh
-codex plugin marketplace add monk-witch/fred-daggerheart-gm
-codex plugin add fred@monk-witch
+codex plugin marketplace add gnufred/daggerhearth-gm
+codex plugin add fred@gnufred
 ```
 
 Start a new session after installation. To test a local checkout instead:
 
 ```sh
-git clone https://github.com/monk-witch/fred-daggerheart-gm.git
-codex plugin marketplace add ./fred-daggerheart-gm
-codex plugin add fred@monk-witch
+git clone https://github.com/gnufred/daggerhearth-gm.git
+codex plugin marketplace add ./daggerhearth-gm
+codex plugin add fred@gnufred
 ```
 
 The repository includes the local marketplace catalog. In supported desktop
@@ -73,7 +73,7 @@ integration is planned; version 0.1 runs generic adventures and does not claim t
 ship a finished Mythic Earth supplement. The Original Work is distinct from the
 older D&D Fanfic. Visit the website for the work and future developments.
 
-For project feedback or direct contact, [open an issue](https://github.com/monk-witch/fred-daggerheart-gm/issues).
+For project feedback or direct contact, [open an issue](https://github.com/gnufred/daggerhearth-gm/issues).
 
 ## Source, rights and scope
 
